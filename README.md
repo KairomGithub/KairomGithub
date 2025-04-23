@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/KairomGithub" target="_blank"><img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub"></a>
   <a href="https://www.facebook.com/h0anggthanhh" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook" alt="Facebook"></a>
-  <a href="https://www.facebook.com/h0anggthanhh" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook" alt="Facebook"></a>
+  <a href="https://www.tiktok.com/@hgthazh" target="_blank"><img src="https://img.shields.io/badge/TikTok-black?style=flat&logo=facebook" alt="TikTok"></a>
   <a href="http://bambu.kesug.com" target="_blank"><img src="https://img.shields.io/badge/Website-green?style=flat&logo=google-chrome" alt="Website"></a>
 </p>
 
