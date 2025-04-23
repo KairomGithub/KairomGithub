@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Xin chào, tôi là Thazh!</h1>
 
-<!--
-**KairomGithub/KairomGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Tôi đến từ Việt Nam.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/KairomGithub" target="_blank"><img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub"></a>
+  <a href="https://www.facebook.com/h0anggthanhh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=facebook" alt="Facebook"></a>
+  <a href="http://bambu.kesug.com" target="_blank"><img src="https://img.shields.io/badge/Website-green?style=flat&logo=google-chrome" alt="Website"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Theo dõi tôi:
+
+- 🐦 [Twitter](https://twitter.com/hgthazh)
+- 💼 [TikTok](https://www.tiktok.com/@hgthazh)
+- 🌐 [Website](http://bambu.kesug.com)
+
+---
+
+### Contact:
+
+Email: hoangtienth4nh@gmail.com
+hoặc hoangthazh@zohomail.com
