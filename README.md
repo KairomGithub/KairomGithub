@@ -7,7 +7,9 @@
 <p align="center">
   <a href="https://www.facebook.com/h0anggthanhh" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook" alt="Facebook"></a>
   <a href="https://www.tiktok.com/@hgthazh" target="_blank"><img src="https://img.shields.io/badge/TikTok-black?style=flat&logo=TikTok" alt="TikTok"></a>
-  <a href="https://instagram.com/hgthazh" target="_blank"><img src="https://img.shields.io/badge/Instagram?style=flat&logo=instagram" alt="Instagram"></a>
+<a href="https://instagram.com/hgthazh" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
+</a>
   <a href="https://x.com/hgthazh" target="_blank"><img src="https://img.shields.io/badge/X-black?style=flat&logo=x" alt="X"></a>
   <a href="http://bambu.kesug.com" target="_blank"><img src="https://img.shields.io/badge/Website-green?style=flat&logo=website" alt="Website"></a>
 </p>
