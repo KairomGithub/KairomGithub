@@ -1,7 +1,7 @@
 <h1 align="center">Xin chào, tôi là Thazh!</h1>
 
 <p align="center">
-  Tôi đến từ Việt Nam.
+  Follow Me:
 </p>
 
 <p align="center">
