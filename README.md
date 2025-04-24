@@ -25,5 +25,4 @@
 
 #### [Telegram](https://t.me/hgthazh)
 
-#### [Email](hoangtienth4nh@gmail.com)
-hoặc (hoangthazh@zohomail.com)
+#### [Email 1](hoangtienth4nh@gmail.com) | [Email 2](hoangthazh@zohomail.com)
