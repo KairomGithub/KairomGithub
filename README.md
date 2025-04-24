@@ -15,7 +15,7 @@
 
 ### Website:
 
-- [About](http://bambu.domain.com/about.php
+- [About](http://bambu.domain.com/about.php)
 - [Bambu Social](http://social.bambu.domain.com)
 - [Bambuber](http://bambuber.domain.com)
 - [Bambu Connect](http://connect.bambu.domain.com)
@@ -23,5 +23,7 @@
 
 ### Contact:
 
-Email: hoangtienth4nh@gmail.com
-hoặc hoangthazh@zohomail.com
+#### [Telegram](https://t.me/hgthazh)
+
+#### [Email](hoangtienth4nh@gmail.com)
+hoặc (hoangthazh@zohomail.com)
