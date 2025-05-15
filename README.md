@@ -30,7 +30,7 @@
 - [Email 1](hoangtienth4nh@gmail.com) | [Email 2](hoangthazh@zohomail.com)
 
 <details>
-  <summary>Xem hình ảnh minh họa (nhấn để mở)</summary>
+  <summary> </summary>
 
   <img src="./assets/images/screenshot1.png" width="300px">  
   <img src="./assets/images/screenshot2.png" width="300px">  
