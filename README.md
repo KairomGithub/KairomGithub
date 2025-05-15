@@ -18,16 +18,16 @@
 
 ### Website:
 
-- [About](http://bambu.domain.com/about.php)
-- [Bambu Social](http://social.bambu.domain.com)
-- [Bambuber](http://bambuber.domain.com)
-- [Bambu Connect](http://connect.bambu.domain.com)
+- [About](https://hg.thazh.giize.com)
+- [Thazh Social](https://social.thazh.giize.com)
+- [Teratube](https://www.hgthazh.giize.com)
+
 ---
 
 ### Contact:
 
 - [Telegram](https://t.me/hgthazh)
-- [Email 1](hoangtienth4nh@gmail.com) | [Email 2](hoangthazh@zohomail.com)
+- [Email 1](hoangtienth4nh@gmail.com) | [...](contact@thazh.giize.com)
 
 <details>
   <summary> </summary>
