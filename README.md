@@ -1,52 +1,42 @@
-<h1 align="center">Xin chào, tôi là Thazh!</h1>
+# 🚀 Chào! Tôi là [Tên của bạn]
 
-<p align="center">
-  Follow Me:
-</p>
-
-<p align="center">
-  <a href="https://www.facebook.com/h0anggthanhh" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook" alt="Facebook"></a>
-  <a href="https://www.tiktok.com/@hgthazh" target="_blank"><img src="https://img.shields.io/badge/TikTok-black?style=flat&logo=TikTok" alt="TikTok"></a>
-<a href="https://instagram.com/hgthazh" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-  <a href="https://x.com/hgthazh" target="_blank"><img src="https://img.shields.io/badge/X-black?style=flat&logo=x" alt="X"></a>
-  <a href="http://bambu.kesug.com" target="_blank"><img src="https://img.shields.io/badge/Website-green?style=flat&logo=website" alt="Website"></a>
-</p>
+[![Ảnh Bí Mật](https://img.shields.io/badge/%F0%9F%93%B8_Click_me!-Magic%20Image-FF69B4?style=for-the-badge)](https://i.imgur.com/your-image-link.jpg)
 
 ---
 
-### Website:
+## 🌐 Mạng xã hội
 
-- [About](https://hg.thazh.giize.com)
-- [Thazh Social](https://social.thazh.giize.com)
-- [Teratube](https://www.hgthazh.giize.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/your-profile)
+[![X (Twitter)](https://img.shields.io/badge/X%20(Twitter)-000000?logo=x&logoColor=white)](https://x.com/your-handle)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/your-username)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://tiktok.com/@your-id)
+[![Weibo](https://img.shields.io/badge/Weibo-DF2029?logo=sina-weibo&logoColor=white)](https://weibo.com/your-profile)
+[![Website](https://img.shields.io/badge/Website-FF7139?logo=google-chrome&logoColor=white)](https://thazh.giize.com)
 
 ---
 
-### Contact:
+## 📬 Liên hệ
 
-- [Telegram](https://t.me/hgthazh)
-- [Email 1](hoangtienth4nh@gmail.com) | [...](contact@thazh.giize.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello@thazh.42web.io)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/hgthazh)
 
-<details>
-  <summary> </summary>
+---
 
-  <img src="./assets/images/screenshot1.png" width="300px">  
-  <img src="./assets/images/screenshot2.png" width="300px">  
-  <img src="./assets/images/screenshot3.png" width="300px">  
-  <img src="./assets/images/screenshot4.png" width="300px">  
-  <img src="./assets/images/screenshot5.png" width="300px">  
-  <img src="./assets/images/screenshot6.png" width="300px">  
-  <img src="./assets/images/screenshot7.png" width="300px">  
-  <img src="./assets/images/screenshot8.png" width="300px">  
-  <img src="./assets/images/screenshot9.png" width="300px">  
-  <img src="./assets/images/screenshot10.png" width="300px">  
-  <img src="./assets/images/screenshot11.png" width="300px">  
-  <img src="./assets/images/screenshot12.png" width="300px">  
-  <img src="./assets/images/screenshot13.png" width="300px">  
-  <img src="./assets/images/screenshot14.png" width="300px">  
-  <img src="./assets/images/screenshot15.png" width="300px">  
-  <img src="./assets/images/screenshot16.png" width="300px">  
+## 🎮 Ảnh Bí Mật
+Nhấn vào nút **"Click me!"** ở đầu trang để xem ảnh đặc biệt của tôi!  
+*(Ảnh sẽ mở trong tab mới)*
 
-</details>
+---
+
+## 🛠️ Công nghệ yêu thích
+
+![Python](https://img.shields.io/badge/PHP-3776AB?logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+
+---
+
+## 📊 GitHub Analytics
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=KairomGithub&theme=radical)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KairomGithub&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
