@@ -1,6 +1,4 @@
-# 🚀 Chào! Tôi là [Tên của bạn]
-
-[![Ảnh Bí Mật](https://img.shields.io/badge/%F0%9F%93%B8_Click_me!-Magic%20Image-FF69B4?style=for-the-badge)](https://i.imgur.com/your-image-link.jpg)
+# 🚀 Thazh 
 
 ---
 
