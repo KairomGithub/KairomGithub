@@ -22,12 +22,6 @@
 
 ---
 
-## 🎮 Ảnh Bí Mật
-Nhấn vào nút **"Click me!"** ở đầu trang để xem ảnh đặc biệt của tôi!  
-*(Ảnh sẽ mở trong tab mới)*
-
----
-
 ## 🛠️ Công nghệ yêu thích
 
 ![Python](https://img.shields.io/badge/PHP-3776AB?logo=php&logoColor=white)
