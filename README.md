@@ -45,7 +45,7 @@
 
 ### [StraweSocial](https://github.com/thazh-tean/strawe-social)
 - Công nghệ sử dụng: PHP, MySQL, HTML, CSS
-- [Live Demo](https://strawe.kesug.com) | [Source Code](https://github.com/thazh-team/strawe-social)
+- [Live Demo](https://strawe.kesug.com) | [Source Code](https://github.com/thazh-team/strawe-social/releases/)
 
 
 ## 📈 Hoạt động gần đây
