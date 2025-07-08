@@ -43,9 +43,9 @@
 
 ## 🏆 Dự án nổi bật
 
-### [StraweSocial](https://github.com/thazh-tean/strawe)
+### [StraweSocial](https://github.com/thazh-tean/strawe-social)
 - Công nghệ sử dụng: PHP, MySQL, HTML, CSS
-- [Live Demo](https://strawe.kesug.com) | [Source Code](https://github.com/thazh-team/strawe)
+- [Live Demo](https://strawe.kesug.com) | [Source Code](https://github.com/thazh-team/strawe-social)
 
 
 ## 📈 Hoạt động gần đây
