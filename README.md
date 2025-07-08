@@ -1,4 +1,4 @@
-# Xin chào! 👋 Tôi là [Tên của bạn]
+# Xin chào! 👋 Tôi là Thazh
 
 ## 🛠️ Công nghệ & Công cụ
 
@@ -43,7 +43,7 @@
 
 ## 🏆 Dự án nổi bật
 
-### [Tên Dự án 1](https://github.com/thazh-tean/strawe-social)
+### [StraweSocial](https://github.com/thazh-tean/strawe-social)
 - Công nghệ sử dụng: PHP, MySQL, HTML, CSS
 - [Live Demo](https://strawe.kesug.com) | [Source Code](https://github.com/thazh-team/strawe-social)
 
